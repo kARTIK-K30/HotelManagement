@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "password": "admin123",
+    "role": "ADMIN"
+  },
+  "reception": {
+    "password": "rec123",
+    "role": "RECEPTIONIST"
+  }
+}

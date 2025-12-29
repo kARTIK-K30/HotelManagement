@@ -1,0 +1,17 @@
+{
+    "101": {
+        "type": "Single",
+        "price": 1500,
+        "available": true
+    },
+    "102": {
+        "type": "Double",
+        "price": 2500,
+        "available": true
+    },
+    "103": {
+        "type": "Deluxe",
+        "price": 3500,
+        "available": true
+    }
+}

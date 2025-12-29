@@ -1,0 +1,7 @@
+hotel_management/
+│
+├── config.json
+├── users.json
+├── rooms.json
+├── bookings.json
+└── hotel.py
